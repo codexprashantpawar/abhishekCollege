@@ -327,12 +327,12 @@ export default function FacultyPage() {
             <tbody>
               <tr className="hover:bg-gray-50">
                 <td className="px-6 py-4 text-sm">Chairman</td>
-                <td className="px-6 py-4 text-sm font-medium">Mr. Gururaj Charantimath Sir</td>
+                <td className="px-6 py-4 text-sm font-medium">Mr.Gururaj Rachayya Charantimath </td>
                 <td className="px-6 py-4 text-sm">23rd September</td>
               </tr>
               <tr className="hover:bg-gray-50">
-                <td className="px-6 py-4 text-sm">Director</td>
-                <td className="px-6 py-4 text-sm font-medium">Mrs. Geeta Charantimath Ma`am</td>
+                <td className="px-6 py-4 text-sm">Executive Director</td>
+                <td className="px-6 py-4 text-sm font-medium"> Mrs. Geeta Gururaj Charantimath </td>
                 <td className="px-6 py-4 text-sm">22nd July</td>
               </tr>
               <tr className="hover:bg-gray-50">
@@ -350,7 +350,7 @@ export default function FacultyPage() {
               </tr>
               <tr className="hover:bg-gray-50">
                 <td className="px-6 py-4 text-sm">College Principal</td>
-                <td className="px-6 py-4 text-sm font-medium">Mrs. Varsha Desai Ma`am</td>
+                <td className="px-6 py-4 text-sm font-medium">Mrs. Varsha Sachin Desai</td>
                 <td className="px-6 py-4 text-sm">20th August</td>
               </tr>
               <tr className="hover:bg-gray-50">

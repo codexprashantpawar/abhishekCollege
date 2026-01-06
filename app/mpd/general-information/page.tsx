@@ -10,7 +10,7 @@ export default function GeneralInformationPage() {
       <div className="bg-primary text-white py-16">
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-3xl md:text-5xl font-bold mb-4">General Information</h1>
-          <p className="text-lg md:text-xl max-w-3xl mx-auto">Essential details about SNBP INTERNATIONAL School</p>
+          <p className="text-lg md:text-xl max-w-3xl mx-auto">Essential details about Abhishekh Jr.College</p>
         </div>
       </div>
 
@@ -77,8 +77,8 @@ export default function GeneralInformationPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                 <div className="bg-gray-50 p-4 rounded-lg">
-                  <h3 className="font-bold text-lg mb-2 text-primary">School Name</h3>
-                  <p className="text-gray-700">SNBP INTERNATIONAL School</p>
+                  <h3 className="font-bold text-lg mb-2 text-primary">College Name</h3>
+                  <p className="text-gray-700">Abhishekh Jr. College</p>
                 </div>
 
                 <div className="bg-gray-50 p-4 rounded-lg">
@@ -169,13 +169,13 @@ export default function GeneralInformationPage() {
 
                 <div className="bg-gray-50 p-4 rounded-lg">
                   <h3 className="font-bold text-lg mb-2 text-primary">Email</h3>
-                  <p className="text-gray-700">info@snbpinternational.edu</p>
+                  <p className="text-gray-700">abhishekjuniorcollegemoshi@gmail.com</p>
                 </div>
 
-                <div className="bg-gray-50 p-4 rounded-lg">
+                {/* <div className="bg-gray-50 p-4 rounded-lg">
                   <h3 className="font-bold text-lg mb-2 text-primary">Website</h3>
                   <p className="text-gray-700">www.snbpinternational.edu</p>
-                </div>
+                </div> */}
               </div>
             </div>
 

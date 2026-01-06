@@ -11,7 +11,7 @@ export default function OurHistoryPage() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-3xl md:text-5xl font-bold mb-4">Our History</h1>
           <p className="text-lg md:text-xl max-w-3xl mx-auto">
-            The journey of excellence and innovation that shaped SNBP INTERNATIONAL School
+            The journey of excellence and innovation that shaped Abhishekh Jr.College
           </p>
         </div>
       </div>
@@ -71,7 +71,7 @@ export default function OurHistoryPage() {
           {/* Main Content */}
           <div className="lg:col-span-2 space-y-8">
             <div className="bg-white p-6 rounded-lg shadow-md">
-              <h2 className="text-2xl font-bold mb-4 text-primary">The SNBP Story</h2>
+              <h2 className="text-2xl font-bold mb-4 text-primary">The Abhishekh Story</h2>
               <div className="relative h-64 md:h-80 mb-6 rounded-lg overflow-hidden">
                 <Image
                   src="/placeholder.svg?height=400&width=800"
@@ -81,7 +81,7 @@ export default function OurHistoryPage() {
                 />
               </div>
               <p className="text-gray-700 mb-4">
-                SNBP INTERNATIONAL School was founded in 1995 with a vision to provide world-class education that
+                Abhishekh Jr.College was founded in 1995 with a vision to provide world-class education that
                 nurtures excellence, builds character, and inspires future leaders. What began as a small institution
                 with just a handful of students has now grown into one of the most prestigious educational institutions
                 in the region.
@@ -89,10 +89,10 @@ export default function OurHistoryPage() {
               <p className="text-gray-700 mb-4">
                 Our founder, Dr. S.N. Bhatnagar, believed that education should go beyond textbooks and exams. He
                 envisioned a school that would foster creativity, critical thinking, and a global perspective among
-                students. His pioneering approach to education laid the foundation for what SNBP is today.
+                students. His pioneering approach to education laid the foundation for what Abhishekh is today.
               </p>
               <p className="text-gray-700">
-                Over the years, SNBP has evolved and adapted to changing educational needs while staying true to its
+                Over the years, Abhishekh has evolved and adapted to changing educational needs while staying true to its
                 core values of excellence, integrity, and innovation. Today, we continue to build on our rich legacy
                 while embracing modern teaching methodologies and technologies.
               </p>
@@ -111,7 +111,7 @@ export default function OurHistoryPage() {
                     <h3 className="text-xl font-semibold">1995</h3>
                   </div>
                   <p className="text-gray-700">
-                    SNBP School was founded with its first campus and 120 students. The school focused on providing
+                    Abhishekh Jr.College was founded with its first campus and 120 students. The school focused on providing
                     quality education with a strong emphasis on values and character building.
                   </p>
                 </div>
@@ -137,7 +137,7 @@ export default function OurHistoryPage() {
                     <h3 className="text-xl font-semibold">2005</h3>
                   </div>
                   <p className="text-gray-700">
-                    SNBP achieved its first major academic milestone with 100% pass results and top ranks in board
+                    Abhishekh achieved its first major academic milestone with 100% pass results and top ranks in board
                     examinations. The school also introduced comprehensive sports programs.
                   </p>
                 </div>
@@ -150,7 +150,7 @@ export default function OurHistoryPage() {
                     <h3 className="text-xl font-semibold">2010</h3>
                   </div>
                   <p className="text-gray-700">
-                    Upgraded to SNBP INTERNATIONAL School with the introduction of international curriculum and exchange
+                    Upgraded to Abhishekh Jr.College with the introduction of international curriculum and exchange
                     programs. New campus inaugurated to accommodate growing student population.
                   </p>
                 </div>
@@ -188,7 +188,7 @@ export default function OurHistoryPage() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h2 className="text-2xl font-bold mb-4 text-primary">Our Legacy of Excellence</h2>
               <p className="text-gray-700 mb-4">
-                Throughout our history, SNBP INTERNATIONAL School has remained committed to providing an education that
+                Throughout our history,Abhishekh Jr.College has remained committed to providing an education that
                 prepares students not just for examinations, but for life. Our alumni have gone on to excel in various
                 fields including medicine, engineering, arts, sports, and business.
               </p>
